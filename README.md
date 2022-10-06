@@ -10,3 +10,6 @@ react and css specialist
 
 
 [![MemisGoz Streak](https://github-readme-streak-stats.herokuapp.com/?user=MemisGoz&theme=dark-smoky&fire=FFAB4C)](https://git.io/streak-stats)
+
+
+[![MemisGoz GitHub stats](https://github-readme-stats.vercel.app/api?username=MemisGoz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
