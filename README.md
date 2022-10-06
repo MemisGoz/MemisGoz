@@ -1,5 +1,6 @@
 ### Hi there 👋
 <img src="https://komarev.com/ghpvc/?username=MemisGoz&label=Profile%20views&color=0e75b6&style=flat" alt="MemisGoz" />
+[![MemisGoz Streak](https://github-readme-streak-stats.herokuapp.com/?user=MemisGoz&theme=dark-smoky&fire=FFAB4C)](https://git.io/streak-stats)
 From Denmark <br>
 build like a tree trunk<br>
 big brain<br>
