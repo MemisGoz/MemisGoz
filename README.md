@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://komarev.com/ghpvc/?username=MemisGoz&label=Profile%20views&color=0e75b6&style=flat" alt="MemisGoz" />
 From Denmark <br>
 build like a tree trunk<br>
 big brain<br>
