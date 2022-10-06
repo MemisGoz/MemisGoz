@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-
-**MemisGoz/MemisGoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+From Denmark 
+build like a tree trunk
+big brain
+iq 118
+single
 
 react and css specialist
 
